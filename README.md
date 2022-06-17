@@ -25,4 +25,4 @@
 ![Code](https://img.shields.io/badge/-Code-black?logo=c)
 ![Tweet](https://img.shields.io/badge/-Tweet-black?logo=twitter)
 ![Develop](https://img.shields.io/badge/-Develop-black)
-![LearnLanguages](https://img.shields.io/badge/-Learn Languages-black)
+![LearnLanguages](https://img.shields.io/badge/-Learn_Languages-black)
