@@ -22,12 +22,12 @@
 
 # What I do:
 ![Study](https://img.shields.io/badge/-Study-grey)
-![Code](https://img.shields.io/badge/-Code-black?logo=c)
+![Code](https://img.shields.io/badge/-Code-blue?logo=c)
 ![Tweet](https://img.shields.io/badge/-Tweet-black?logo=twitter)
-![Develop](https://img.shields.io/badge/-Develop-black)
-![LearnLanguages](https://img.shields.io/badge/-Learn_Languages-black)
+![Develop](https://img.shields.io/badge/-Develop-red)
+![LearnLanguages](https://img.shields.io/badge/-Learn_Languages-yellow)
 
 # Contact Me:
 ![Twitter](https://img.shields.io/badge/Twitter-@snoftlt-black?logo=twitter)
 ![Github](https://img.shields.io/badge/Github-snoftlt-black?logo=github)
-![Web](https://img.shields.io/badge/Web-snoftlt.github.io-black)
+![Web](https://img.shields.io/badge/Web-snoftlt.github.io-red)
