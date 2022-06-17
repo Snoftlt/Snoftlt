@@ -16,12 +16,12 @@
 ![Arch](https://img.shields.io/badge/-Arch-black?logo=archlinux)
 
 # What I want:
-![Physics](https://img.shields.io/badge/-Physics-black)
-![Math](https://img.shields.io/badge/-Math-gray)
+![Physics](https://img.shields.io/badge/-Physics-blue)
+![Math](https://img.shields.io/badge/-Math-green)
 ![Music](https://img.shields.io/badge/-Music-black?logo=spotify)
 
 # What I do:
-![Study](https://img.shields.io/badge/-Study-black)
+![Study](https://img.shields.io/badge/-Study-grey)
 ![Code](https://img.shields.io/badge/-Code-black?logo=c)
 ![Tweet](https://img.shields.io/badge/-Tweet-black?logo=twitter)
 ![Develop](https://img.shields.io/badge/-Develop-black)
