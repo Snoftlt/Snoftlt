@@ -28,5 +28,5 @@
 ![LearnLanguages](https://img.shields.io/badge/-Learn_Languages-black)
 
 # Contact Me:
-![Github](https://img.shields.io/badge/-Github-black?url=https://github.com/snoftlt)
+![Github](https://img.shields.io/badge/-Github-black?link=https://github.com/snoftlt)
 ![Twitter](https://img.shields.io/badge/-Twitter-black?logo=twitter)
