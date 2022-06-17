@@ -19,3 +19,10 @@
 ![Physics](https://img.shields.io/badge/-Physics-black)
 ![Math](https://img.shields.io/badge/-Math-gray)
 ![Music](https://img.shields.io/badge/-Music-black?logo=spotify)
+
+# What I do:
+![Study](https://img.shields.io/badge/-Study-black)
+![Code](https://img.shields.io/badge/-Code-black?logo=c)
+![Tweet](https://img.shields.io/badge/-Tweet-black?logo=twitter)
+![Develop](https://img.shields.io/badge/-Develop-black)
+![LearnLanguages](https://img.shields.io/badge/-Learn Languages-black)
