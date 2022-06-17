@@ -5,3 +5,9 @@
 - 📫 How to reach me ...
 
 ![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Csharp](https://img.shields.io/badge/-C#-blue?logo=csharp)
+![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
