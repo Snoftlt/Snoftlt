@@ -14,3 +14,8 @@
 ![Twitter](https://img.shields.io/badge/-Twitter-black?logo=twitter)
 ![Php](https://img.shields.io/badge/-PHP-gray?logo=php)
 ![Arch](https://img.shields.io/badge/-Arch-black?logo=archlinux)
+
+# What I want:
+![Physics](https://img.shields.io/badge/-Physics-black)
+![Math](https://img.shields.io/badge/-Math-gray)
+![Music](https://img.shields.io/badge/-Music-black?logo=spotify)
