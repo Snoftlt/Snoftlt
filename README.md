@@ -11,7 +11,7 @@
 ![Html](https://img.shields.io/badge/-HTML-orange?logo=html)
 ![Css](https://img.shields.io/badge/-CSS-blue?logo=css)
 ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Linux](https://img.shields.io/badge/-Linux-blue?logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
 ![Java](https://img.shields.io/badge/-Java-red?logo=java)
 ![Electronic](https://img.shields.io/badge/-Electronic-black)
 ![Github](https://img.shields.io/badge/-Github-orange?logo=github)
